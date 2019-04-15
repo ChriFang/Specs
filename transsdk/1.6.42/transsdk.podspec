@@ -10,7 +10,7 @@ Pod::Spec.new do |s|
       LICENSE
     }
 	s.author       = { 'yy' => 'yypm@yy.com' }
-	s.source       = { :http => "http://repo.yypm.com/dwbuild/mobile/ios/transsdk/TRANSSDK_1.6.42_REL/20190225-314-r2385698//transsdk.zip" }
+	s.source       = { :http => "http://webrtc.yy.com/dwbuild/mobile/ios/transsdk/TRANSSDK_1.6.42_REL/20190225-314-r2385698/transsdk.zip" }
 	s.platform     = :ios, '4.3'
     s.ios.deployment_target = '4.3'
     s.requires_arc = true
